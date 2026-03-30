@@ -8,12 +8,14 @@ My name is Mikel, I'm a Senior Engineer / Full Stack developer from Spain in lov
 
 ## Tech Stack
 I've been a developer for +12 years, and I've worked with quite some technologies:
-- Vue
 - React
-- Laravel
+- Laravel / PHP
 - CSS
-- Javascript
+- TypeScript
 - Node
+Now super immersed into AI assisted engineering and development, using in my day to day:
+- Claude Code
+- Cursor
 
 ## Skills
 As a Software Engineer, I consider myself:
@@ -31,8 +33,9 @@ During my professional life I've created dozens of creative projects in my spare
 
 - MeTheOne, a website to discover talent all over the world - now dead but [still alive this video I made (+650K views)](https://www.youtube.com/watch?v=tSnUIxqH3zA)
 - Gzaas, a full screen message generator, from 10 years ago, still alive! https://gzaas.com/
-- Odiómetro, a Twitter hate measure app, built with Vue and Node https://odiometro.es
+- Odiómetro, a Twitter hate measure app, built with Vue and Node https://odiometro.es (now down, due to the prohibitive cost of Twitter/X's API)
 - Linguaso, to learn languages via comprehensible input watching YouTube videos https://linguaso.com (you'll love this one!)
+- etengabe.eus, the basque learning for medium / advanced skilled basque learners, still in development https://etengabe.eus
 - ...and many others that are to come yet.
 
 But, most of all, I've helped the companies I've worked for deliver __high quality__ products to their clients.
