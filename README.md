@@ -13,6 +13,7 @@ I've been a developer for +12 years, and I've worked with quite some technologie
 - CSS
 - TypeScript
 - Node
+
 Now super immersed into AI assisted engineering and development, using in my day to day:
 - Claude Code
 - Cursor
